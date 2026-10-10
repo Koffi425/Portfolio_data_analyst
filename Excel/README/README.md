@@ -7,7 +7,7 @@ Ce projet consiste à utiliser Microsoft Excel pour organiser, traiter et analys
 2. Outil utilisé
 
 - Microsoft Excel
-
+- 
 3. Travaux réalisés
 
 - Organisation des données
