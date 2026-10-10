@@ -9,6 +9,7 @@ Je suis étudiant en Master 2 de recherche et je développe mes compétences en 
 - SQL : extraction et manipulation des données.
 - Python : analyse et traitement des données.
 - QGIS : cartographie et analyse spatiale.
+  
 📂 Mes projets
 Cette section présentera progressivement mes projets réalisés avec Excel, Power BI, SQL, Python et QGIS.
 
